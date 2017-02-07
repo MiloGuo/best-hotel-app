@@ -1,5 +1,5 @@
 {
-  "name": "mean-stakc-hero",
+  "name": "Best Hotel",
   "version": "1.0.0",
   "description": "This repo contains the MEAN stack application -- Best Hotel",
   "main": "app.js",
@@ -21,6 +21,6 @@
     "type": "git",
     "url": ""
   },
-  "author": "Tamas Piros",
+  "author": "Milo Guo",
   "license": "ISC"
 }
